@@ -1,6 +1,6 @@
 ![github profile display](https://user-images.githubusercontent.com/104495928/184815154-5f3cd24b-5440-4ddb-b511-137075aaf157.gif)
 
-- 👋 Hi, I’m @codeinferno1
+- 👋 Hi, I’m Sushant Pradip Patil
 - 👀 I’m interested in Solving Problems and Coding Well Structured Softwares and Websites.
 - 🌱 I’m currently completing Diploma Course in Information Technology.
 - 💞️ I’m curious and passionate to learn new technologies and open for any collaborations.
