@@ -3,16 +3,18 @@
 ### Hello, World! :milky_way:
 ![Barney Stinson alt](https://media.giphy.com/media/vTxWtmX2b0oH6/giphy.gif)
 
-I am a student pursuing B. Tech in Artificial Intelligence and Data Science at VIIT, Pune. I am passionate about leveraging technology to drive innovation and solve complex problems. With a keen interest in android application development, I have honed my skills in programming languages like Java, Python, and C++ and have created several successful applications.
+Greetings! I'm a student pursuing B. Tech in Artificial Intelligence and Data Science at VIIT, Pune. It's like a magical academy for AI and data enthusiasts! 🧙‍♂️ Armed with my trusty keyboard and coding tools, I'm on a quest to conquer complex problems and unleash the power of technology!
 
-Curruntly improving my skills in the field of WebDev using MERN stack 🕸️
+When I'm not busy coding in Java, Python, and C++, you'll find me playing with Androids—creating charming applications that make them dance, even the Cha-Cha-Cha! 💃
 
-If you're looking for a skilled and ambitious guy to join your team or collaborate on a project, I would be honored to hear from you. Let's connect and explore how we can leverage technology to create a better world together.
+But here's the exciting part! I'm also exploring the magical realm of WebDev using the MERN stack 🕸️. Prepare to be spellbound by the websites I'll craft!
+
+If you need a wizardly programmer to join your team or collaborate on a project, I'd be thrilled to hear from you! Let's combine our tech prowers to create a better, brighter world with a touch of humor and enchantment! Let's connect and brew some fantastic solutions! 🌟
 
 ### :link: Connect with me:
 
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Sushant26271702)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/sushant_patil_03/)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Sushant26271702)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sushantpatil03/)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:sushantofficial03@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=whatsapp)](https://wa.me/919307245056)
