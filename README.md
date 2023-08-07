@@ -9,7 +9,7 @@ When I'm not busy coding in Java, Python, and C++, you'll find me playing with A
 
 But here's the exciting part! I'm also exploring the magical realm of WebDev using the MERN stack 🕸️. Prepare to be spellbound by the websites I'll craft!
 
-If you need a wizardly programmer to join your team or collaborate on a project, I'd be thrilled to hear from you! Let's combine our tech prowers to create a better, brighter world with a touch of humor and enchantment! Let's connect and brew some fantastic solutions! 🌟
+If you need a wizardly programmer to join your team or collaborate on a project, I'd be thrilled to hear from you! Let's combine our tech powers to create a better, brighter world with a touch of humor and enchantment! Let's connect and brew some fantastic solutions! 🌟
 
 ### :link: Connect with me:
 
