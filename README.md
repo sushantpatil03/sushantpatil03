@@ -1,9 +1,9 @@
-![github profile display](https://user-images.githubusercontent.com/104495928/184815154-5f3cd24b-5440-4ddb-b511-137075aaf157.gif)
+[//]: <> (DON'T COPY MY README YOU NERD )
 
 ### Hello, World! :milky_way:
 ![Barney Stinson alt](https://media.giphy.com/media/vTxWtmX2b0oH6/giphy.gif)
 
-Greetings! I'm a student pursuing B. Tech in Artificial Intelligence and Data Science at VIIT, Pune. It's like a magical academy for AI and data enthusiasts! 🧙‍♂️ Armed with my trusty keyboard and coding tools, I'm on a quest to conquer complex problems and unleash the power of technology!
+Greetings! I'm a student pursuing B. Tech in Artificial Intelligence and Data Science at VIIT, Pune. 🧙‍♂️ Armed with my trusty keyboard and coding tools, I'm on a quest to conquer complex problems and unleash the power of technology!
 
 When I'm not busy coding in Java, Python, and C++, you'll find me playing with Androids—creating charming applications that make them dance, even the Cha-Cha-Cha! 💃
 
